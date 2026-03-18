@@ -2,11 +2,7 @@
 
 A curated list of Model Context Protocol (MCP) servers that provide access to Israeli data sources, government APIs, and services relevant to those living in or interested in Israel.
 
-*Last updated: 2026-01-13*
-
-## Related Projects
-
-[![Jewish Interest MCP Projects](https://img.shields.io/badge/Related-Jewish%20Interest%20MCP%20Projects-blue?logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+*Last updated: 2026-03-18*
 
 ## Table of Contents
 
@@ -19,6 +15,7 @@ A curated list of Model Context Protocol (MCP) servers that provide access to Is
 - [Healthcare & Medical](#healthcare--medical)
 - [Library & Archives](#library--archives)
 - [Real Estate & Land](#real-estate--land)
+- [Safety & Emergency](#safety--emergency)
 - [Transportation](#transportation)
 - [Weather & Environment](#weather--environment)
 
@@ -47,27 +44,6 @@ Access to Israeli economic data from the Central Bureau of Statistics (CBS)
 **Language:** Typescript
 
 **Author:** [reuvenaor](https://github.com/reuvenaor)
-
----
-
-## [Israeli CBS MCP Server](https://github.com/amirrosi/israeli-cbs-mcp)
-
-![GitHub stars](https://img.shields.io/github/stars/amirrosi/israeli-cbs-mcp?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/amirrosi/israeli-cbs-mcp)
-
-MCP server providing access to statistical data from the Israeli Central Bureau of Statistics (CBS)
-
-**Features:**
-- Hierarchical exploration of CBS topics
-- Time-series data retrieval with filtering
-- Statistical series (unemployment, GDP, etc.)
-- Price indices (CPI, construction costs)
-- Local cache (~20MB) with automatic indexing
-
-**Data Sources:** Israeli Central Bureau of Statistics (CBS) official APIs
-
-**Language:** Typescript
-
-**Author:** [amirrosi](https://github.com/amirrosi)
 
 ---
 
@@ -159,20 +135,6 @@ MCP server providing access to Israel's government public data platform (data.go
 **Data Sources:** data.gov.il
 
 **Author:** [aviveldan](https://github.com/aviveldan)
-
----
-
-## [Israel GovData MCP](https://github.com/ytzlax/israel-govdata-mcp)
-
-![GitHub stars](https://img.shields.io/github/stars/ytzlax/israel-govdata-mcp?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ytzlax/israel-govdata-mcp)
-
-MCP server for accessing Israeli government data
-
-*Early stage project - minimal implementation currently available*
-
-**Data Sources:** Israeli government data
-
-**Author:** [ytzlax](https://github.com/ytzlax)
 
 ---
 
@@ -320,6 +282,58 @@ Access to Israeli Land Authority public tender data
 
 ---
 
+# Safety & Emergency
+
+Public shelters, emergency services, and civil defense data
+
+## [Miklat MCP](https://github.com/danielrosehill/Miklat-MCP)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Miklat-MCP?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Miklat-MCP)
+
+MCP server enabling AI agents to guide users towards miklatim tziburim (public shelters) in Israel
+
+**Features:**
+- Search shelters by free-text queries across names, addresses, and neighborhoods
+- Locate nearest shelters using geographic coordinates
+- Filter by shelter type, capacity, and accessibility
+- Neighborhood breakdowns and statistical summaries
+- Navigation links to Google Maps or Waze
+- List all supported cities and individual shelter details
+
+**Data Sources:** Miklat-MCP-Data repository, JLM-Shelters-Dot-Com project
+
+**Language:** Typescript
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+**Endpoint:** `https://mcp.jlmshelters.com/mcp`
+
+*Currently covers Jerusalem with 198 shelters. Runs on Cloudflare Workers. Data licensed under ODbL.*
+
+---
+
+## [Miklat MCP Data](https://github.com/danielrosehill/Miklat-MCP-Data)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Miklat-MCP-Data?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Miklat-MCP-Data)
+
+Community-maintained geodata repository and data pipeline for Israeli public shelters, upstream data source for Miklat MCP
+
+**Features:**
+- Three-stage data validation pipeline (raw → structured → validated → production)
+- GeoJSON standard format for shelter data
+- Tracking system for 199 Israeli administrative areas
+- Community contribution support for both human and AI agents
+
+**Data Sources:** JLM-Shelters-Dot-Com project, Community contributions
+
+**Language:** Geojson
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+*Data pipeline companion to Miklat MCP. Currently populated with Jerusalem shelter data.*
+
+---
+
 # Transportation
 
 Routing, transit, and transportation data
@@ -370,12 +384,12 @@ Unknown purpose - requires investigation
 
 Alphabetical list of contributors who have created Israel-related MCP servers:
 
-- [amirrosi](https://github.com/amirrosi)
 - [DavidOsherdiagnostica](https://github.com/DavidOsherdiagnostica)
 - [GuyKh](https://github.com/GuyKh)
 - [MaorEi](https://github.com/MaorEi)
 - [aviveldan](https://github.com/aviveldan)
 - [barvhaim](https://github.com/barvhaim)
+- [danielrosehill](https://github.com/danielrosehill)
 - [david-aftergut](https://github.com/david-aftergut)
 - [glekner](https://github.com/glekner)
 - [mottibec](https://github.com/mottibec)
@@ -384,7 +398,6 @@ Alphabetical list of contributors who have created Israel-related MCP servers:
 - [reuvenaor](https://github.com/reuvenaor)
 - [shlomiuziel](https://github.com/shlomiuziel)
 - [yoni-j](https://github.com/yoni-j)
-- [ytzlax](https://github.com/ytzlax)
 - [zohar](https://github.com/zohar)
 
 # Contributing
@@ -413,6 +426,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2026-01-13*
+*Last updated: 2026-03-18*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2025-11-15",
-    "total_projects": 18,
+    "last_updated": "2026-03-18",
+    "total_projects": 20,
     "description": "Index of Israel-related MCP servers"
   },
   "projects": [
@@ -317,6 +317,53 @@
       "language": "unknown",
       "status": "active",
       "author_url": "https://github.com/mula2812"
+    },
+    {
+      "id": "miklat-mcp",
+      "name": "Miklat MCP",
+      "repository": "https://github.com/danielrosehill/Miklat-MCP",
+      "author": "danielrosehill",
+      "author_url": "https://github.com/danielrosehill",
+      "category": "safety-emergency",
+      "description": "MCP server enabling AI agents to guide users towards miklatim tziburim (public shelters) in Israel",
+      "features": [
+        "Search shelters by free-text queries across names, addresses, and neighborhoods",
+        "Locate nearest shelters using geographic coordinates",
+        "Filter by shelter type, capacity, and accessibility",
+        "Neighborhood breakdowns and statistical summaries",
+        "Navigation links to Google Maps or Waze",
+        "List all supported cities and individual shelter details"
+      ],
+      "data_sources": [
+        "Miklat-MCP-Data repository",
+        "JLM-Shelters-Dot-Com project"
+      ],
+      "language": "typescript",
+      "status": "active",
+      "deployment": "https://mcp.jlmshelters.com/mcp",
+      "notes": "Currently covers Jerusalem with 198 shelters. Runs on Cloudflare Workers. Data licensed under ODbL."
+    },
+    {
+      "id": "miklat-mcp-data",
+      "name": "Miklat MCP Data",
+      "repository": "https://github.com/danielrosehill/Miklat-MCP-Data",
+      "author": "danielrosehill",
+      "author_url": "https://github.com/danielrosehill",
+      "category": "safety-emergency",
+      "description": "Community-maintained geodata repository and data pipeline for Israeli public shelters, upstream data source for Miklat MCP",
+      "features": [
+        "Three-stage data validation pipeline (raw → structured → validated → production)",
+        "GeoJSON standard format for shelter data",
+        "Tracking system for 199 Israeli administrative areas",
+        "Community contribution support for both human and AI agents"
+      ],
+      "data_sources": [
+        "JLM-Shelters-Dot-Com project",
+        "Community contributions"
+      ],
+      "language": "geojson",
+      "status": "active",
+      "notes": "Data pipeline companion to Miklat MCP. Currently populated with Jerusalem shelter data."
     }
   ],
   "categories": {
@@ -355,6 +402,10 @@
     "library": {
       "name": "Library & Archives",
       "description": "Library collections and archival data"
+    },
+    "safety-emergency": {
+      "name": "Safety & Emergency",
+      "description": "Public shelters, emergency services, and civil defense data"
     }
   }
 }

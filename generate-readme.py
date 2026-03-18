@@ -76,6 +76,16 @@ def generate_project_section(project: dict, include_notes: bool = False) -> str:
         output.append(f"**Website:** [{project['homepage']}]({project['homepage']})")
         output.append("")
 
+    # Deployment endpoint (if available)
+    if project.get('deployment'):
+        output.append(f"**Endpoint:** `{project['deployment']}`")
+        output.append("")
+
+    # Notes (author's notes, shown in italics)
+    if project.get('notes'):
+        output.append(f"*{project['notes']}*")
+        output.append("")
+
     output.append("---")
     output.append("")
 
