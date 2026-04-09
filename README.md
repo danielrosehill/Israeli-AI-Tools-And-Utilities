@@ -1,6 +1,6 @@
 # Israeli AI Ecosystem
 
-![Banner](banner.png)
+![Banner](images/banner.png)
 
 A curated map of the Israeli AI ecosystem: AI agents, agent skills, MCP servers, Hebrew language resources, communities, meetups, government bodies, conferences, and domain-specific tools — covering finance, healthcare, government data, real estate, safety, and more.
 
