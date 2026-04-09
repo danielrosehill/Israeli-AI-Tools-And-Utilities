@@ -279,6 +279,24 @@ Israeli AI communities, professional associations, and organizations supporting 
 - [Dicta / DictaLM](https://dicta.org.il/dicta-lm) — Hebrew NLP research center and open-source Hebrew LLMs.
 - [Data-IL](https://data-il.org/en/) — Israeli data science and AI community.
 
+## Meetups
+
+In-person and hybrid AI/ML meetup groups across Israel.
+
+- [Artificial Intelligence Israel](https://www.meetup.com/artificial-intelligence-israel/) — General AI meetup group in Israel.
+- [Generative AI Israel](https://www.meetup.com/generative-ai-israel/) — Meetup focused on generative AI.
+- [Tel Aviv-Yafo Agentic AI Meetup Group](https://www.meetup.com/tel-aviv-yafo-agentic-ai-meetup-group/) — Tel Aviv meetup on agentic AI.
+- [DataTalks JLM — Machine & Deep Learning in the Holy City](https://www.meetup.com/datatalks-jlm-machine-and-deep-learning-in-the-holy-city/) — Jerusalem-based ML/DL meetup. ([LinkedIn](https://il.linkedin.com/company/datatalks-jlm))
+- [Prompt Practices TLV](https://www.meetup.com/prompt-practices-tlv) — Tel Aviv meetup on prompt engineering practices.
+- [Computer Vision Israel Meetup](https://www.meetup.com/Computer-Vision-Israel-Meetup) — Computer vision community meetup.
+- [Responsible AI TLV](https://www.meetup.com/responsible-ai-tlv) — Tel Aviv meetup on responsible and ethical AI.
+
+## Facebook Groups
+
+- [AI JLM](https://www.facebook.com/groups/aijlm/) — Jerusalem AI Facebook group.
+- [AI Israel](https://www.facebook.com/groups/aisrael/) — General Israeli AI Facebook group.
+- [MCP Israel](https://www.facebook.com/groups/mcpisrael/) — Israeli community Facebook group for Model Context Protocol. ([mcpisrael.com](https://mcpisrael.com/))
+
 ---
 
 # Government Bodies
