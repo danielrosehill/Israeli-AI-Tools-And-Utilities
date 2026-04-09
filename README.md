@@ -13,6 +13,11 @@ A curated list of AI agents, agent skills, and Model Context Protocol (MCP) serv
 - [Agent Skills & Frameworks](#agent-skills--frameworks)
 - [Curated Lists](#curated-lists)
 - [Communities & Organizations](#communities--organizations)
+- [Government Bodies](#government-bodies)
+- [Centers of Excellence](#centers-of-excellence)
+- [Conferences & Events](#conferences--events)
+- [Inference Providers & Local Clouds](#inference-providers--local-clouds)
+- [Startup Ecosystem](#startup-ecosystem)
 - [Hebrew Language Resources](#hebrew-language-resources)
 - [Careers & Jobs](#careers--jobs)
 - [Dashboards](#dashboards)
@@ -213,7 +218,11 @@ Curated AI agent skills for Israeli developers — an open-source collection of 
 
 # Curated Lists
 
-Community-maintained collections of Israeli AI agent resources
+Community-maintained collections of Israeli AI agent resources.
+
+**External ecosystem maps:**
+
+- [The Israeli Agentic AI Landscape (Twine Security)](https://www.twinesecurity.com/resource/the-israeli-agentic-ai-landscape) — Market map of Israeli companies building in the agentic AI space.
 
 ## [Claude Israel](https://github.com/danielrosehill/Claude-Israel)
 
@@ -266,6 +275,59 @@ Israeli AI communities, professional associations, and organizations supporting 
 - [Agent Skills IL (agentskills.co.il)](https://agentskills.co.il/en) — Companion website to the Skills IL open-source project.
 - [Machine Learning Israel (machinelearning.co.il)](https://machinelearning.co.il/) — Israeli machine learning community.
 - [Israeli Association for Artificial Intelligence (iaai.org.il)](https://iaai.org.il/) — Professional association for AI practitioners and researchers in Israel.
+- [Ivrit.ai](https://www.ivrit.ai/en/ivrit-ai-2/) — Open Hebrew speech and language datasets for AI research.
+- [Dicta / DictaLM](https://dicta.org.il/dicta-lm) — Hebrew NLP research center and open-source Hebrew LLMs.
+- [Data-IL](https://data-il.org/en/) — Israeli data science and AI community.
+
+---
+
+# Government Bodies
+
+Israeli government agencies and national programs relevant to AI.
+
+- [Israel Innovation Authority (innovationisrael.org.il)](https://innovationisrael.org.il/) — Government agency supporting Israeli innovation and R&D, including AI initiatives.
+- [National AI Program (aiisrael.org.il)](https://aiisrael.org.il/) — Israel's national program for AI.
+- [The Institute for AI (theinstituteai.org.il)](https://www.theinstituteai.org.il/en/) — National institute for AI research and policy.
+
+---
+
+# Centers of Excellence
+
+Academic and research centers focused on AI and data science in Israel.
+
+- [Israel Data Science & AI Initiative — Technion (idsai.net.technion.ac.il)](https://idsai.net.technion.ac.il/) — Technion's interdisciplinary data science and AI research center.
+
+---
+
+# Conferences & Events
+
+AI, ML, and tech conferences and event aggregators in Israel.
+
+- [AI Week](https://ai-week.com/) — Annual AI conference in Israel.
+- [IMVC — Israel Machine Vision Conference](https://www.imvc.co.il/) — Annual machine vision and deep learning conference.
+- [AI Dev TLV](https://aidevtlv.com/) — Tel Aviv AI developer conference.
+- [Tech1](https://tech1.co.il/) — Israeli tech conference.
+- [Cyber Week TAU](https://cyberweektau.com/) — Tel Aviv University's annual cybersecurity conference (AI/ML tracks).
+- [Dev.Events — Israel AI](https://dev.events/AS/IL/ai) — Aggregated listing of AI events in Israel.
+- [Events.co.il](https://events.co.il/) — General Israeli events directory.
+- [Science.co.il — AI Conferences](https://www.science.co.il/ai/Conferences.php) — Directory of AI-related conferences in Israel.
+- [Machine Learning Israel — Events](https://machinelearning.co.il/events/) — Events calendar from the Machine Learning Israel community.
+
+---
+
+# Inference Providers & Local Clouds
+
+Cloud and inference providers with a presence relevant to Israeli AI workloads.
+
+- [Nebius](https://nebius.com/) — AI-focused cloud and GPU inference provider.
+
+---
+
+# Startup Ecosystem
+
+Directories and databases tracking the Israeli AI startup ecosystem.
+
+- [Startup Nation Finder](https://finder.startupnationcentral.org/) — Searchable database of Israeli startups maintained by Start-Up Nation Central.
 
 ---
 
