@@ -45,6 +45,8 @@ Banking transactions, financial analysis, and economic data
 | [GreenInvoice MCP](https://github.com/danielrosehill/GreenInvoice-MCP) | MCP server for Israeli invoicing and accounting via the Green Invoice API | ![](https://img.shields.io/github/stars/danielrosehill/GreenInvoice-MCP?style=social) |
 | [Israeli Bank MCP](https://github.com/mottibec/israeli-bank-mcp) | MCP server for managing Israeli bank accounts and transactions | ![](https://img.shields.io/github/stars/mottibec/israeli-bank-mcp?style=social) |
 | [ClawSavings](https://github.com/yhyatt/ClawSavings) | Savings tracker/tool with Israeli market focus. | ![](https://img.shields.io/github/stars/yhyatt/ClawSavings?style=social) |
+| [Takumi](https://github.com/NitzanLary/Takumi) | Personal trading intelligence platform for TASE and US equities via IBI with a Claude-powered chat agent | ![](https://img.shields.io/github/stars/NitzanLary/Takumi?style=social) |
+| [CashPilot](https://github.com/danielcashpilot/cashpilot) | AI-powered analyzer for Israeli personal-finance PDF statements | ![](https://img.shields.io/github/stars/danielcashpilot/cashpilot?style=social) |
 
 
 ## Government & Open Data
@@ -118,6 +120,8 @@ Property data, land tenders, and real estate information
 | [Nadlan MCP](https://github.com/nitzpo/nadlan-mcp) | Israeli real estate data (Nadlan = Real Estate in Hebrew) | ![](https://img.shields.io/github/stars/nitzpo/nadlan-mcp?style=social) |
 | [Urban Guardian MCP](https://github.com/GaryShnol/urban-guardian-mcp) | An intelligent MCP server that transforms raw Israeli real-estate data into actionable financial insights using Claude | ![](https://img.shields.io/github/stars/GaryShnol/urban-guardian-mcp?style=social) |
 | [Remy MCP (Israeli Land Authority)](https://github.com/barvhaim/remy-mcp) | Access to Israeli Land Authority public tender data | ![](https://img.shields.io/github/stars/barvhaim/remy-mcp?style=social) |
+| [Hommie](https://github.com/Zakiaia/hommie) | AI-guided real estate decision assistant for Israeli apartment buyers | ![](https://img.shields.io/github/stars/Zakiaia/hommie?style=social) |
+| [Find Apartments](https://github.com/cxt9/find-apartments) | Claude Code plugin searching Israeli rental platforms with Telegram notifications | ![](https://img.shields.io/github/stars/cxt9/find-apartments?style=social) |
 
 
 ## Safety & Emergency
@@ -160,6 +164,7 @@ Meteorological data and environmental information
 | Project | Description | Stars |
 |---|---|---|
 | [IMS MCP (Israeli Meteorological Service)](https://github.com/GuyKh/ims-mcp) | Access to Israeli Meteorological Service data | ![](https://img.shields.io/github/stars/GuyKh/ims-mcp?style=social) |
+| [Israel Air Quality Assistant](https://github.com/ShimonNavon/israel-air-quality-assistant) | Python assistant providing Israeli air quality information over environmental data | ![](https://img.shields.io/github/stars/ShimonNavon/israel-air-quality-assistant?style=social) |
 
 
 ## Careers & Jobs
@@ -211,3 +216,5 @@ Projects that need categorization.
 | [Asher MCP](https://github.com/shlomiuziel/asher-mcp) | Unknown purpose - requires investigation | ![](https://img.shields.io/github/stars/shlomiuziel/asher-mcp?style=social) |
 | [Fingent](https://github.com/amitdan1/Fingent) | Fingent — Smart Financial Management System for Israel. AI-powered advisor (Finni), open banking, expense analytics | ![](https://img.shields.io/github/stars/amitdan1/Fingent?style=social) |
 | [RPA Port Platform](https://github.com/doronrpa-hub/rpa-port-platform) | Israeli Customs Intelligence Platform — AI-powered document classification, email monitoring, and self-learning knowledge base | ![](https://img.shields.io/github/stars/doronrpa-hub/rpa-port-platform?style=social) |
+| [BagrutAI](https://github.com/OdeliaYanay6/bagrutai) | Smart Bagrut exam preparation app for Israeli high-school students | ![](https://img.shields.io/github/stars/OdeliaYanay6/bagrutai?style=social) |
+| [Airecom](https://github.com/rezbek1/airecom) | AI recommendation platform helping Israeli SMBs surface in ChatGPT and Perplexity answers | ![](https://img.shields.io/github/stars/rezbek1/airecom?style=social) |
