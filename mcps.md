@@ -222,3 +222,4 @@ Projects that need categorization.
 | [RPA Port Platform](https://github.com/doronrpa-hub/rpa-port-platform) | Israeli Customs Intelligence Platform — AI-powered document classification, email monitoring, and self-learning knowledge base | ![](https://img.shields.io/github/stars/doronrpa-hub/rpa-port-platform?style=social) |
 | [BagrutAI](https://github.com/OdeliaYanay6/bagrutai) | Smart Bagrut exam preparation app for Israeli high-school students | ![](https://img.shields.io/github/stars/OdeliaYanay6/bagrutai?style=social) |
 | [Airecom](https://github.com/rezbek1/airecom) | AI recommendation platform helping Israeli SMBs surface in ChatGPT and Perplexity answers | ![](https://img.shields.io/github/stars/rezbek1/airecom?style=social) |
+| [Skills IL — MCPs](https://github.com/skills-il/mcps) | Collection of MCP servers for Israeli data sources and APIs, maintained by skills-il | ![](https://img.shields.io/github/stars/skills-il/mcps?style=social) |
